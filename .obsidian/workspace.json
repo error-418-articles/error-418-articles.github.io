@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/Hello_world.md",
+                "file": "index.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Hello_world"
+              "title": "index"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles/Hello_world.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Hello_world"
+              "title": "Обратные ссылки для index"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "articles/Hello_world.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Hello_world"
+              "title": "Исходящие ссылки из index"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles/Hello_world.md"
+                "file": "index.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Hello_world"
+              "title": "Структура index"
             }
           }
         ]
@@ -164,9 +164,9 @@
   },
   "active": "61ef37ea90ce1ced",
   "lastOpenFiles": [
+    "articles/Hello_world.md",
     "Index.md",
     "index.md",
-    "articles/Hello_world.md",
     "articlse/Hello_world.md",
     "articlse"
   ]
