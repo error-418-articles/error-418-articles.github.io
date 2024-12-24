@@ -6,24 +6,4 @@
 ---
 
 * #### [Hello world!](articles/Hello_world.md) | *24.12.2024*
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ошибка 418</title>
-</head>
-<body>
-    <article>
-        <h1>ОШИБКА 418</h1>
-        <img src="icon.jpg" alt="Описание изображения">
-        <p>Если ты попал на эту страницу, то ты явно попал куда нужно, даже если случайно, друг. Эта страница хранит в себе ссылки на все статьи канала <code>error 418</code>. Тут ты можешь найти что-то интересное, потому что тут есть статьи на самые разнообразные темы из мира IT. Авторы пытались писать эти статьи так, чтобы их суть понял даже шестиклассник. Но, если ты уже смешарик и хочешь чтиво посерьезнее, ты найдешь тут и такое.</p>
-        <hr>
-        <h2>Статьи:</h2>
-        <ul>
-            <li><a href="articles/Hello_world.md">Hello world!</a> | <em>24.12.2024</em></li>
-        </ul>
-    </article>
-</body>
-</html>
 
