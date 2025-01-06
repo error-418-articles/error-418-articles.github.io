@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/Hello_world.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hello_world"
+              "title": "index"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/QQ.md",
-                "mode": "source",
+                "file": "articles/Hello_world.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "QQ"
+              "title": "Hello_world"
             }
           }
         ]
@@ -184,15 +184,18 @@
   },
   "active": "61ef37ea90ce1ced",
   "lastOpenFiles": [
+    "418.jpeg",
+    "418.md",
+    "index.md",
     "articles/img/Github_retrowave.png",
+    "icon.jpg",
     "articles/Hello_world.md",
     "articles/QQ.md",
+    "Untitled.canvas",
     "Untitled.md",
     "articles/img",
     "Untitled",
     "articles/Untitled.md",
-    "index.md",
-    "icon.jpg",
     "Index.md",
     "articlse/Hello_world.md",
     "articlse"
