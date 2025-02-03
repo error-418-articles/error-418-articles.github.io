@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "articles/Java/Java.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -62,12 +62,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "preview",
+                "file": "articles/Java/Java Core.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Java Core"
             }
           },
           {
@@ -241,10 +241,11 @@
   },
   "active": "f36166533bab1dff",
   "lastOpenFiles": [
-    "articles/Java/ООП.md",
+    "articles/Java/Java Core.md",
     "articles/Java/Java.md",
     "index.md",
     "articles/Java/JUnit_5.md",
+    "articles/Java/ООП.md",
     "articles/Java/Java 1.md",
     "articles/Java/Java/Java.md",
     "articles/Java/Java",
